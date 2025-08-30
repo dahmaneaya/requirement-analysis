@@ -59,7 +59,8 @@ Examples (Booking Management Project):
 Confirm bookings in under 3 seconds.
 Ensure secure authentication & encryption.
 
-#Use Case Diagrams 
+ # Use Case Diagrams 
+
 A Use Case Diagram shows how users (actors) interact with the system. It helps visualize functionality, user roles, and improves communication in design.
 
 Booking System Actors & Use Cases:
