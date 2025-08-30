@@ -61,9 +61,4 @@ Ensure secure authentication & encryption.
 
  # Use Case Diagrams 
 
-A Use Case Diagram shows how users (actors) interact with the system. It helps visualize functionality, user roles, and improves communication in design.
-
-Booking System Actors & Use Cases:
-User: Create, update, cancel, view booking.
-Admin: Manage bookings, generate reports.
-System: Send confirmation, process payments.
+![Booking System Use Case](images/alx-booking-uc.png)
