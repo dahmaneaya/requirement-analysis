@@ -61,4 +61,4 @@ Ensure secure authentication & encryption.
 
  # Use Case Diagrams 
 
-![Booking System Use Case](images/alx-booking-uc.png)
+![Booking System Use Case](alx-booking-uc.png)
