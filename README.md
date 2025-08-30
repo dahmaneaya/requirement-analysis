@@ -45,4 +45,17 @@ Evaluating the collected requirements for feasibility, consistency, completeness
 
 Verifying that the documented requirements accurately reflect stakeholder needs. This may involve reviews, walkthroughs, or prototyping to ensure alignment before moving to design and development.
 
+# Types of Requirements
+
+1. Functional Requirements
+Define what the system should do.
+Examples (Booking Management Project):
+Create, update, and cancel bookings.
+Send booking confirmation emails.
+
+2. Non-functional Requirements
+Define how the system should perform.
+Examples (Booking Management Project):
+Confirm bookings in under 3 seconds.
+Ensure secure authentication & encryption.
 
