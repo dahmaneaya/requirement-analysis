@@ -62,3 +62,8 @@ Ensure secure authentication & encryption.
  # Use Case Diagrams 
 
 ![Booking System Use Case](alx-booking-uc.png)
+
+# Acceptance Criteria  
+Acceptance Criteria are the specific conditions that a software feature must meet to be considered complete and acceptable by stakeholders. They ensure clarity, reduce misunderstandings, and act as a reference for testing and validation.  
+- User can view a summary of their booking before checkout.  
+- System calculates the total price including taxes and discounts. 
