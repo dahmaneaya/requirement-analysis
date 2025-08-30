@@ -13,3 +13,18 @@ Requirement Analysis involves communicating with clients, end-users, and other s
 3-Validation: Ensuring requirements are correct, complete, and aligned with user needs.
 
 4-Management: Handling changes in requirements throughout the project lifecycle.
+
+# Why is Requirement Analysis Important?
+
+Requirement Analysis is important because it:
+
+1-Defines the project scope – clarifies what should be built and what not.
+
+2-Prevents misunderstandings – ensures developers and stakeholders share the same vision.
+
+3-Reduces cost and time – catching issues early avoids expensive rework later.
+
+4-Improves quality – well-defined requirements lead to reliable and user-friendly software.
+
+5-Ensures user satisfaction – by aligning the system with real user needs and goals.
+
